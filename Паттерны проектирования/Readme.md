@@ -52,8 +52,8 @@ ____
 ![Наблюдатель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/наблюдатель.PNG)    
 ![Состояние](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/состояние.PNG)
 ![Стратегия](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/стратегия.PNG)    
-![Шаблонный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/шаблонный%20метод.PNG)  
-![Посетитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посетитель.PNG)     
+![Шаблонный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/шаблонный%20метод.PNG)
+![Посетитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посетитель.PNG)       
 ____  
 | Название | Name | Описание |
 |----------------|----------------|----------------|  
