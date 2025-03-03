@@ -8,11 +8,11 @@ ____
 ____  
    
 **_Порождающие_**  
-![Абстрактная фабрика](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/абстрактная%20фабрика.PNG)  
-![Строитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/строитель.PNG)  
-![Фабричный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/фабричный.PNG)  
-![Прототип](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/прототип.PNG)    
-![Одиночка](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/одиночка.PNG)  
+![Абстрактная фабрика](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/абстрактная%20фабрика.PNG)
+![Строитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/строитель.PNG)    
+![Фабричный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/фабричный.PNG)
+![Прототип](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/прототип.PNG)      
+![Одиночка](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/одиночка.PNG)    
 ____  
 | Название | Name | Описание |
 |----------------|----------------|----------------|
@@ -24,13 +24,13 @@ ____
 ____    
 
  **_Структурные_**   
-![Адаптер](hhttps://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/адаптер.PNG)  
-![Мост](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/мост.PNG)  
-![Компоновщик](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/компоновщик.PNG)  
-![Декоратор](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/декоратор.PNG)  
-![Фасад](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/фасад.PNG)  
-![Легковес](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/легковес.PNG)  
-![Заместитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/заместитель.PNG)  
+![Адаптер](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/адаптер.PNG)
+![Мост](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/мост.PNG)    
+![Компоновщик](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/компоновщик.PNG)
+![Декоратор](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/декоратор.PNG)    
+![Фасад](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/фасад.PNG) 
+![Легковес](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/легковес.PNG)    
+![Заместитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/заместитель.PNG)    
 ____  
 | Название | Name | Описание |
 |----------------|----------------|----------------|  
@@ -44,16 +44,16 @@ ____
 ____    
 
  **_Поведенческие_**   
-![Цепочка обязанностей](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/цепочка%20обязанностей.PNG)  
-![Итератор](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/итератор.PNG)  
-![Команда](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/команда.PNG)  
-![Посредник](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посредник.PNG)  
-![Снимок](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/снимок.PNG)  
-![Наблюдатель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/наблюдатель.PNG)  
-![Состояние](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/состояние.PNG)  
-![Стратегия](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/стратегия.PNG)  
-![Шаблонный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/шаблонный%20метод.PNG)     
-![Посетитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посетитель.PNG)   
+![Цепочка обязанностей](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/цепочка%20обязанностей.PNG)
+![Итератор](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/итератор.PNG)    
+![Команда](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/команда.PNG)
+![Посредник](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посредник.PNG)   
+![Снимок](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/снимок.PNG)
+![Наблюдатель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/наблюдатель.PNG)    
+![Состояние](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/состояние.PNG)
+![Стратегия](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/стратегия.PNG)    
+![Шаблонный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/шаблонный%20метод.PNG)  
+![Посетитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посетитель.PNG)     
 ____  
 | Название | Name | Описание |
 |----------------|----------------|----------------|  
