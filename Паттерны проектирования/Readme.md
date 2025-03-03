@@ -11,7 +11,7 @@ ____
 ![Абстрактная фабрика](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/абстрактная%20фабрика.PNG)  
 ![Строитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/строитель.PNG)  
 ![Фабричный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/фабричный.PNG)  
-![Прототип](hhttps://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/прототип.PNG)  
+![Прототип](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/прототип.PNG)    
 ![Одиночка](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/одиночка.PNG)  
 ____  
 | Название | Name | Описание |
@@ -52,8 +52,8 @@ ____
 ![Наблюдатель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/наблюдатель.PNG)  
 ![Состояние](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/состояние.PNG)  
 ![Стратегия](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/стратегия.PNG)  
-![Шаблонный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/шаблонный%20метод.PNG) 
-![Посетитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посетитель.PNG) 
+![Шаблонный метод](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/шаблонный%20метод.PNG)     
+![Посетитель](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Паттерны%20проектирования/img/посетитель.PNG)   
 ____  
 | Название | Name | Описание |
 |----------------|----------------|----------------|  
