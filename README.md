@@ -42,6 +42,7 @@ ____
 * Паттерны проектирования    [Клац  :point_left:](https://github.com/Dv-nn/Python--Cheat-Sheet/tree/main/Паттерны%20проектирования)
 * Fast API [Клац  :point_left:](https://github.com/Dv-nn/Fast-API-Cheat-Sheet)
 * Архитектура ПО [Клац  :point_left:](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Архитектура%20ПО.md   )
+* Алгоритмы [Клац  :point_left:](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Алгоритмы/Алгоритмы.md)  
   
 
 
