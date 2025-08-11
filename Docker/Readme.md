@@ -5,3 +5,18 @@
 ____  
 
 ![](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Docker/Docker%20(1).jpg) 
+
+____  
+*docker run <container name>* - Запускает контейнер прикрепляя его к терминалу
+*docker ps* - Выводит список запущенных контейнеров и информацию о них
+*docker ps -a* - Выводит список всех контейнеров и информацию о них (и запущенных, и не запущенных)
+*docker stop <container id or name>* - Останавливает контейнер
+*docker rm <container id or name>8 - Удаляет контейнер
+*docker images* - Выводит список образов на докер хосте
+*docker rmi <image id or name>* - Удаляет образ (перед уничтожением образа нужно остановить и удалить все связанные с ним контейнеры)
+*docker pull <image name>* - Скачивает образ, но не запускает его
+*docker exec <container id or name>* <command> - Выполняет команду в существующем контейнере на докер хосте
+*docker run -d <container name>* - Запускает контейнер в фоновом режиме
+*docker attach <container id or name>* - Прикрепляет существующий контейнер к терминалу
+
+*Ctrl + C* - Выход из контейнера, если он прикреплён к терминалу
