@@ -1,4 +1,5 @@
  ## Модель OSI DOD  
+# Как устроены компьютерные сети  
 [Как устроены компьютерные сети](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Компьютерные%20сети/кс.JPG)  
 ____  
 ![Модель OSI DOD](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Компьютерные%20сети/OSI_DOD.png)   
