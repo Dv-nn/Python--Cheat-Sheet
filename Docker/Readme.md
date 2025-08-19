@@ -11,6 +11,8 @@ ____
 ____  
 ![](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Docker/img/doker2.JPG)   
 ____  
+![](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Docker/img/изображение_2025-08-19_091904405.png)  
+____  
 
 *docker run <container name>* - Запускает контейнер прикрепляя его к терминалу  
 *docker ps* - Выводит список запущенных контейнеров и информацию о них  
