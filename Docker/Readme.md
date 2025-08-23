@@ -19,22 +19,48 @@ ____
   *Docker-файл* — это текстовый документ, который содержит инструкции, описывающие, как создать нужный Docker-образ.     
 Docker-файл помогает автоматизировать создание образов, описывая весь процесс в виде последовательности шагов.    
 
+____ 
+*Шпаргалка по основным командам Docker*  
+1. Установка Docker  
+docker --version: Проверка установленной версии Docker  
+2. Управление образами (Images)  
+docker pull <image>: Загрузка образа из Docker Hub (следующий шаг об этом)  
+docker buildx build -t <image_name> <path>: Сборка образа из Dockerfile  
+docker images: Просмотр списка локально сохраненных образов  
+docker rmi <image>: Удаление образа   
+docker exec <container id or name> <command> - Выполняет команду в существующем контейнере на докер хосте
+ 
+4. Управление контейнерами  
+docker run <options> <image>: Запуск нового контейнера  
+docker ps: Просмотр списка запущенных контейнеров  
+docker ps -a: Просмотр списка всех контейнеров вообще  
+docker stop <container>: Остановка запущенного контейнера  
+docker start <container>: Запуск остановленного контейнера  
+docker restart <container>: Перезапуск контейнера  
+docker rm <container>: Удаление остановленного контейнера
+docker run -d <container name> - Запускает контейнер в фоновом режиме    
+docker attach <container id or name> - Прикрепляет существующий контейнер к терминалу  
+6. Работа с томами (Volumes)  
+docker volume create <volume>: Создание тома  
+docker volume ls: Просмотр списка томов  
+docker volume inspect <volume>: Просмотр деталей тома  
+docker volume rm <volume>: Удаление тома  
+7. Работа с сетями (Networks)  
+docker network create <network>: Создание сети  
+docker network ls: Просмотр списка сетей  
+docker network inspect <network>: Просмотр деталей сети  
+docker network rm <network>: Удаление сети  
+8. Полезные команды  
+docker exec -it <container> <command>: Выполнение команды в запущенном контейнере  
+docker logs <container>: Просмотр логов контейнера  
+docker inspect <container_or_image>: Просмотр деталей контейнера или образа  
+docker compose up: Запуск всех сервисов, определенных в docker-compose.yml  
+docker compose stop: Остановка  всех контейнеров, сетей и томов, созданных docker compose up  
+docker compose down: Остановка  всех контейнеров, сетей и томов, созданных docker compose up И УДАЛЕНИЕ ИХ
+
+*Ctrl + C* - Выход из контейнера, если он прикреплён к терминалу    
+
+Docker Hub — центральный публичный реестр Docker, предоставляющий доступ к миллионам готовых образов и возможность публиковать собственные образы  
 ____  
-*docker run <container name>* - Запускает контейнер прикрепляя его к терминалу  
-*docker ps* - Выводит список запущенных контейнеров и информацию о них  
-*docker ps -a* - Выводит список всех контейнеров и информацию о них (и запущенных, и не запущенных) 
-*docker start <контейнер>*	Запускает остановленный контейнер  
-*docker stop <container id or name>* - Останавливает контейнер 
-*docker restart <контейнер>*	Перезапускает контейнер  
-*docker rm <container id or name>* - Удаляет контейнер  
-*docker images* - Выводит список образов на докер хосте  
-*docker rmi <image id or name>* - Удаляет образ (перед уничтожением образа нужно остановить и удалить все связанные с ним контейнеры)  
-*docker pull <image name>* - Скачивает образ, но не запускает его  
-*docker exec <container id or name>* <command> - Выполняет команду в существующем контейнере на докер хосте  
-*docker run -d <container name>* - Запускает контейнер в фоновом режиме  
-*docker attach <container id or name>* - Прикрепляет существующий контейнер к терминалу
-*docker logs <контейнер>*	Показывает логи контейнера  
 
-*Ctrl + C* - Выход из контейнера, если он прикреплён к терминалу  
 
-Docker Hub — центральный публичный реестр Docker, предоставляющий доступ к миллионам готовых образов и возможность публиковать собственные образы.
