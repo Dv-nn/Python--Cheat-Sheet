@@ -43,6 +43,7 @@ ____
 * Fast API [Клац  :point_left:](https://github.com/Dv-nn/Fast-API-Cheat-Sheet)
 * Архитектура ПО [Клац  :point_left:](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Архитектура%20ПО.md   )
 * Алгоритмы [Клац  :point_left:](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Алгоритмы/Алгоритмы.md)  
+* Модули_os_и_sys [Клац  :point_left:](https://github.com/Dv-nn/Python--Cheat-Sheet/blob/main/Модули%20os%20и%20sys/Модули_os_и_sys.md)    
   
 
 
